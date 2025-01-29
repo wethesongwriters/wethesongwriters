@@ -9,7 +9,7 @@ sidenav: false
 
 The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
 
-We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
+We can also use variables in our pages. For example, this is the title variable: **{{page.title}}** Refer to the Pages team documentation for more.
 
 ## Section heading (h2)
 
