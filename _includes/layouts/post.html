@@ -16,6 +16,9 @@ This is used in blog posts. The index page can be found at blog/index.html
           <div class="margin-top-neg-105">
             By <span class="text-bold">{{ author }}</span> · {{ date | date: '%B %d, %Y' }}
           </div>
+          <div>
+            Last Modified: <time datetime="{{ date | htmlDateString }}">{{ date | date: '%B %d, %Y' }}</time>
+          </div>
         </div>
         {{ content }}
       </div>
