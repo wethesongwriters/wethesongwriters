@@ -2,7 +2,7 @@
 title: The Great Divide
 description: 
 layout: layouts/post
-date: 2025-03-01
+date: 2025-03-02
 author: Jud Caswell
 excerpt: My grandparents celebrated 70 anniversaries together in Belfast Maine. That whole time there was this one facet of their relationship that the family always found kind of amusing. Lately it seems more amazing to me than amusing.
 image: JudCaswell.jpeg
