@@ -1,8 +1,8 @@
 ---
 layout: layouts/page
-title: About Me
+title: Sign Up
 eleventyNavigation:
-  key: About Me
+  key: Sign Up
   order: 3
 ---
 
