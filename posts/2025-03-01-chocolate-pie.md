@@ -10,6 +10,8 @@ tags:
   - posts
 ---
 
-Example of a home recording: I had conversations with several friends about how they didn't want to go to Thanksgiving this year after the election. That got me thinking about what things draw the generations together for Thanksgiving. Plus, everyone in my family loves my auntie's chocolate pie!
+I had conversations with several friends about how they didn't want to go to Thanksgiving this year after the election. That got me thinking about what things draw the generations together for Thanksgiving. Plus, everyone in my family loves my auntie's chocolate pie!
+
+<i>This is an example of a home recording. You don't have to worry about your recordings being fancy. We want to get them into the world as soon as possible!</i>
 
 {% include "youtube.html" %}
