@@ -19,4 +19,4 @@ Once we pair you with a songwriting partner, we'll send an email introducing you
 
 <h2>Sharing your song</h2>
 
-Once you've finished your song, record it! Then when you have a link to the recording, reply to the email we sent to you and your partner. Include the link to where we can find the song, a short paragraph about your journey, songwriter credit (it's up to you if you want to put both names on it or if the federal employee wants to remain anonymous), and any other information you want us to know about it. We'll get your song added to our website.
+Once you've finished your song, record a video and post it to YouTube. Then when you have a link to the recording, reply to the email we sent to you and your partner. Include the link to where we can find the song, a short paragraph about your journey, songwriter credit (it's up to you if you want to put both names on it or if the federal employee wants to remain anonymous), and any other information you want us to know about it. We'll get your song added to our website.
