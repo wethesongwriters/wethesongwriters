@@ -52,10 +52,10 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Songs
-    url: /blog/
+  - name: The Songs
+    url: /songs/
   - name: Sign Up
-    url: /document/
+    url: /sign-up/
  # - name: Document with sidenav
  #   url: /document-with-sidenav/
  # - name: Document submenu
