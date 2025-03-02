@@ -3,3 +3,7 @@ LICENSE.md
 README.md
 .github
 config
+Dockerfile
+docker-compose.yaml
+Makefile
+run.sh
