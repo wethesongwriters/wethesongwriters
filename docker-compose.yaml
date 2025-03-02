@@ -1,0 +1,15 @@
+services:
+  swaf:
+    working_dir: /app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # restart: always
+    volumes:
+      - ./:/app
+    ports:
+      - 8080:8080
+    expose:
+      - 8080
+    entrypoint: "./run.sh"
+    stdin_open: true
