@@ -36,15 +36,17 @@ to modify some of the meta-data for the site, this is the place to do it.
   <meta property="og:url" content="{{ pageUrl }}" />
   <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="64x64">
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XG6JV8RE12"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  {% if process.env.ELEVENTY_ENV == "production" %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XG6JV8RE12"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-    gtag('config', 'G-XG6JV8RE12');
-  </script>
+      gtag('config', 'G-XG6JV8RE12');
+    </script>
+  {% endif %}
 
   <script src="{{ assetPaths['uswds-init.js'] }}"></script>
   <!-- CSS ================================================== -->
