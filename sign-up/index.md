@@ -15,7 +15,7 @@ Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHpSIEM82slzVi-
 
 <h2>What's next</h2>
 
-Once we pair you with a songwriting partner, we'll send an email introducing you. The two of you can take it from there an communicate however you are both comfortable.
+Once we pair you with a songwriting partner, we'll send an email introducing you. The two of you can take it from there and communicate however you are both comfortable.
 
 <h2>Sharing your song</h2>
 
