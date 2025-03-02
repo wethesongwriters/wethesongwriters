@@ -20,3 +20,7 @@ Once we pair you with a songwriting partner, we'll send an email introducing you
 <h2>Sharing your song</h2>
 
 Once you've finished your song, record a video and post it to YouTube. Then when you have a link to the recording, reply to the email we sent to you and your partner. Include the link to where we can find the song, a short paragraph about your journey, songwriter credit (it's up to you if you want to put both names on it or if the federal employee wants to remain anonymous), and any other information you want us to know about it. We'll get your song added to our website.
+
+<h2>Getting involved without writing a song</h2>
+
+Intimidated by the idea of writing a song, but want to help out in other ways? We need help with the website, pairing people, and posting on social media. Fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHpSIEM82slzVi-TAd3J7A7gwCufwK0V0KVQr3SDFGMVLmVw/viewform?usp=header">sign up form</a> to let us know you're interested in helping.
