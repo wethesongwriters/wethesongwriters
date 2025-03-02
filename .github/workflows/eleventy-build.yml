@@ -8,9 +8,9 @@ jobs:
       - uses: actions/checkout@master
       - uses: actions/setup-node@v4
         with:
-          node-version: '22.x'
+          node-version: 'current'
       - run: npm install
-      - run: npm build
+      - run: npm run build
       # - name: Build
       #   uses: TartanLlama/actions-eleventy@master
       - name: Deploy
